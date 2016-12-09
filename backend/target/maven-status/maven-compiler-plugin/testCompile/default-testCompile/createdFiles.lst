@@ -1,0 +1,10 @@
+com\niit\backend\backend\CartTest.class
+com\niit\backend\backend\ProductTest.class
+com\niit\backend\backend\UserTest.class
+com\niit\backend\backend\CardDetailTest.class
+com\niit\backend\backend\CategoryTestcase.class
+com\niit\backend\backend\CategoryTest.class
+com\niit\backend\backend\SupplierTest.class
+com\niit\backend\backend\BillingAddressTest.class
+com\niit\backend\backend\CartItemTest.class
+com\niit\backend\backend\CustomerTest.class
