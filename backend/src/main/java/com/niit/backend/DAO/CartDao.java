@@ -14,7 +14,7 @@ public interface CartDao {
 	
 	public void saveOrUpdate(Cart cart);
 	
-	public void delete(String id);
+	public void delete(int id);
 		
 	public Long getTotalAmount(String id);
 	

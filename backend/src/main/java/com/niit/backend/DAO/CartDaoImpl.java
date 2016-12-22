@@ -46,7 +46,7 @@ private Cart cart;
 	
 	
 	@Transactional
-	public void delete(String id){
+	public void delete(int id){
 		Cart cartToDelete = new Cart();
 		cartToDelete.setId(id);
 		sessionFactory.getCurrentSession().delete(cartToDelete);
@@ -80,8 +80,13 @@ private Cart cart;
 	return list;
 	
 	}
-
-
+/*
+public void delete(String id) {
+	// TODO Auto-generated method stub
 	
+}
+
+
+*/	
 
 }
